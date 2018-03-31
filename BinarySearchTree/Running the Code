@@ -4,3 +4,5 @@ If you are using an IDE like Eclipse to run the code, please create a Project re
 Make sure that its build path correctly contains JRE system Library.
 Clean and build the project to create .class files.
 Run the BinarySearchTree.java file. It contains main method that tests binary trees for all the methods.
+
+Note that the code throws java.lang.IllegalArgumentException after giving the output for all methods. This is not a runtime exception as the line of code is intended to show that right rotation cannot happen when the left child of the node to be rotated is null.
