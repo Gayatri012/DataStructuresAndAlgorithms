@@ -7,12 +7,12 @@ Implementation of BinarySearchTree without using API.
 
 A binary search tree is a binary tree (every node with at most 2 children) where for every node, all node values in its left subtree is smaller than it, and all node values in its right subtree larger than it.
 E.g.:
-     6
-   /   \
-  4     9
- / \   /
-1   5  8
-
+                   6         
+                  / \         
+                 4    9      
+                / \   /      
+               1   5  8
+  
 The code modifies the author's BinarySearchTree code to implement some new methods as described below:
 1. nodeCount -  Recursively traverses the tree and returns the count of nodes.
 2. isFull  - Returns true if the tree is full.  Definition: A full tree has every node as either a leaf or a parent with two children.
