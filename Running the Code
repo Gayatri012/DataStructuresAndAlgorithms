@@ -1,0 +1,6 @@
+Language Used: Java
+
+If you are using an IDE like Eclipse to run the code, please create a Project repository and import the java files to it.
+Make sure that its build path correctly contains JRE system Library.
+Clean and build the project to create .class files.
+Run the BinarySearchTree.java file. It contains main method that tests binary trees for all the methods.
