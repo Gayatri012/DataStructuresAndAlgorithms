@@ -1,5 +1,4 @@
-DataStructuresAndAlgorithms
-Projects from Algorithm and Data Structures course
+Binary Search Tree Implementation:
 
 Note: Some part of the code in this project is adapted from author Mark Allen Weiss' code of Data Structures and Algorithm Analysis in Java book.
 
