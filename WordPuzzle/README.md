@@ -14,4 +14,6 @@ When reading the input file of words, store each prefix of the word as well.
 For example, if the word is "apple", store "a", "ap", "app", "appl", "apple".
 In the algorithm, if a prefix is not found, the rest of this string can be treated as "not found".  For example, if the string is "apbum", and after checking and finding "a" and "ap" I find that "abp" is not in my dictionary, then there is no point in checking further in this direction.
 
+Please run WordPuzzle.java as a stand alone program to get the prompt to input the number of rows and columns of the grid.
+
 The program outputs the elapsed time in both cases. Algorithm 2 runs faster than Algorithm 1.
